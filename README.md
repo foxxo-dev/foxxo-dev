@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/adam_buks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adam_buks" height="30" width="40" /></a>
-  # [Check out my portfolio here!](www.foxxo.app)
+<a href="https://instagram.com/adam_buks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adam_buks" height="30" width="40" /></a> <br />
+   <h3>[Check out my portfolio here!](www.foxxo.app)</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
